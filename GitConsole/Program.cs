@@ -8,6 +8,7 @@ namespace GitConsole
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("hi");
+            Console.WriteLine("happie");
         }
     }
 }
